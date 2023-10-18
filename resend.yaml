@@ -13,7 +13,7 @@ tags:
   - name: Domains
     description: Create and manage domains through the Resend API.
   - name: API Keys
-    description: Create and manage API Keys through the Resend API.
+    description: Create and manage API Keys through the Resend API.z
 paths:
   /emails:
     post:
