@@ -253,7 +253,7 @@ components:
         content:
           type: string
           format: binary
-          description: Content of an attached file.
+          description: Content of an attached file.z
         filename:
           type: string
           description: Name of attached file.
