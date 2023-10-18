@@ -9,7 +9,7 @@ security:
   - bearerAuth: []
 tags:
   - name: Emails
-    description: Start sending emails through the Resend API.
+    description: Start sending emails through the Resend API.z
   - name: Domains
     description: Create and manage domains through the Resend API.
   - name: API Keys
