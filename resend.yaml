@@ -9,11 +9,11 @@ security:
   - bearerAuth: []
 tags:
   - name: Emails
-    description: Start sending emails through the Resend API.
+    description: Start sending emails through the Resend API.z
   - name: Domains
     description: Create and manage domains through the Resend API.
   - name: API Keys
-    description: Create and manage API Keys through the Resend API.
+    description: Create and manage API Keys through the Resend API.z
 paths:
   /emails:
     post:
@@ -253,7 +253,7 @@ components:
         content:
           type: string
           format: binary
-          description: Content of an attached file.
+          description: Content of an attached file.z
         filename:
           type: string
           description: Name of attached file.
